@@ -20,7 +20,7 @@ This repository was made for viewer to check newest update code changes by Autho
 
 Link Reference : [It is bad to copy other peoples code](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code)
 
-> I got idea project from [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io) and thank you with her inspired
+> I got idea project from [Brittany Chiang](https://github.com/bchiang7/bchiang7.github.io) and inspired me to do self learning curve
 
 <br>
 
