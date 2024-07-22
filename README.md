@@ -24,7 +24,13 @@ Link Reference : [It is bad to copy other peoples code](https://www.quora.com/Is
 
 <br>
 
-# Rule Fundamental to Start Roadmap Coding
+## Quote Fundamental First Step to Start Roadmap Coding
 <i>Everyone can do coding, You have to accept learn new knowledge every day</i>
 
-<i>You can do by watching, duplicate, and modification method learning if you want be good coding programmer</i>
+<i>You can do by watching, duplicate, and modification method learning if you want start first step as developer</i>
+
+<i>Learn by mistake, not everyone is perfect in the world. You have improve by yourself to get better result of hardwork</i>
+
+<i>Its never late to learn thing, It's just either we lazy or loss track in mind to get correct patch learning curve</i>
+
+<p>
