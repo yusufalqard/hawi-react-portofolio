@@ -4,7 +4,7 @@ This repository was made for viewer to check newest update code changes by Autho
 
 > This is first iteration of my personal website portofolio built using React and Node.JS
 
-## Depedencies 
+## Depedencies
 
 - [React](https://react.dev/)
 - [Node.JS](https://nodejs.org/en)
@@ -15,6 +15,9 @@ This repository was made for viewer to check newest update code changes by Autho
 
 > If you like to learn from this repository, Fork this repository.
 > Please kindly not steal or copy paste this source code repository
+> <br>
+
+> Special thanks credits to [FreeCodeCamp](https://www.youtube.com/watch?v=bmpI252DmiI) give free tutorial for everyone around the world as great first step learning opportunity.
 
 ### Be a responsible good person and give me proper credit by linking this repository
 
@@ -25,6 +28,7 @@ Link Reference : [It is bad to copy other peoples code](https://www.quora.com/Is
 <br>
 
 ## Quote Fundamental First Step to Start Roadmap Coding
+
 <i>Everyone can do coding, You have to accept learn new knowledge every day</i>
 
 <i>You can do by watching, duplicate, and modification method learning if you want start first step as developer</i>
@@ -32,5 +36,3 @@ Link Reference : [It is bad to copy other peoples code](https://www.quora.com/Is
 <i>Learn by mistake, not everyone is perfect in the world. You have improve by yourself to get better result of hardwork</i>
 
 <i>Its never late to learn thing, It's just either we lazy or loss track in mind to get correct patch learning curve</i>
-
-<p>
